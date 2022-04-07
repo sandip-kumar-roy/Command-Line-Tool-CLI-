@@ -7,7 +7,7 @@
 
 2)Open a terminal within the project folder and type
 
-    **npm init -y**
+                npm init -y
     
     which will simply generate an empty project without going through an interactive process 
     
@@ -16,14 +16,16 @@
 3)Install some open sourced npm packages that Handles colour, animation, and user inputs.
  like
 
- **figlet , inquirer , gradient-string **
+            figlet , 
+            inquirer , 
+            gradient-string 
 
 Simply type these commands in your terminal/cmd:-
 
 
-          **npm install figlet**
-          **npm install inquirer**
-          **npm install gradient-string**
+          npm install figlet
+          npm install inquirer
+          npm install gradient-string
 
 
 
