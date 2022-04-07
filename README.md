@@ -1,6 +1,6 @@
 # Command-Line-Tool-CLI-
-**Command Line Tool (CLI)**
-----------------------------
+**Command Line Tool (CLI)    version 1.0.0**
+----------------------------------------------
 **STEPS TO RUN IT ON YOUR TERMINAL**
 
 1) Create a folder for the project and open your favourite IDE (eg -VScode , Atom ,etc) within that folder
@@ -14,7 +14,16 @@
     
     
 3)Install some open sourced npm packages that Handles colour, animation, and user inputs.
- like **figlet , inquirer , gradient-string **
+ like
+
+ **figlet , inquirer , gradient-string **
+
+Simply type these commands in your terminal/cmd:-
+
+
+          **npm install figlet**
+          **npm install inquirer**
+          **npm install gradient-string**
 
 
 
