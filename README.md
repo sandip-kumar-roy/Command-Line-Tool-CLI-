@@ -33,3 +33,7 @@ Simply type these commands in your terminal/cmd:-
 **SCREENSHOT**
 
 ![cli](https://user-images.githubusercontent.com/101457128/162021537-c10454e5-463f-4ff9-a817-e6c8b33706c1.png)
+
+
+
+![IMG-20220407-WA0000](https://user-images.githubusercontent.com/101457128/162126408-eb8605f3-d44c-4164-9119-0f42feafb038.jpg)
